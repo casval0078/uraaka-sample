@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SAMPLE GALLERY｜作品一覧</title>
+<link rel="stylesheet" href="./style.css">
+<script src="./sets.js"></script>
+</head>
+<body>
+<header><div class="container nav">
+  <div class="logo">SAMPLE GALLERY<small>PUBLIC SAMPLE</small></div>
+</div></header>
+
+<main>
+<section class="hero">
+<div class="container">
+  <div class="kicker">SAMPLE GALLERY</div>
+  <h1>作品一覧</h1>
+  <p class="hero-text">公開用に加工したサンプルをご覧いただけます。<br>気になるセットを選んで詳細をご確認ください。</p>
+</div>
+</section>
+
+<section>
+<div class="container">
+  <div class="list" id="setList"></div>
+</div>
+</section>
+</main>
+
+<footer>SAMPLE GALLERY</footer>
+
+<script>
+const list = document.getElementById("setList");
+
+SETS.forEach((set, index) => {
+  const card = document.createElement("a");
+  card.className = "set-card";
+  card.href = "./set.html?set=" + index;
+
+  const cover = document.createElement("div");
+  cover.className = "cover";
+
+  const img = document.createElement("img");
+  img.src = "./samples/" + encodeURIComponent(set.folder) + "/" + encodeURIComponent(set.prefix + "_" + set.cover);
+  img.alt = set.name;
+  img.loading = "lazy";
+
+  const placeholder = document.createElement("div");
+  placeholder.className = "cover-placeholder";
+  placeholder.textContent = "SAMPLE";
+
+  img.onerror = () => {
+    img.remove();
+    cover.appendChild(placeholder);
+  };
+
+  cover.appendChild(img);
+
+  const body = document.createElement("div");
+  body.className = "set-body";
+  body.innerHTML =
+    "<h2>" + set.name + "</h2>" +
+    "<p>" + set.description + "</p>" +
+    '<div class="set-meta">' +
+    "<span>PHOTO " + set.photos + "</span>" +
+    "<span>VIDEO " + set.videos + "</span>" +
+    "</div>";
+
+  card.appendChild(cover);
+  card.appendChild(body);
+  list.appendChild(card);
+});
+</script>
+</body>
+</html>
