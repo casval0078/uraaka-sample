@@ -34,7 +34,7 @@ const SETS = [
   {
     name: "13ちゃん",
     folder: "13chan",
-    prefix: "あいうえお",
+    prefix: "13ちゃん",
     photos: 27,
     videos: 5,
     description: "13ちゃんの公開サンプルです。",
