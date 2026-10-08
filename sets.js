@@ -38,17 +38,17 @@ const SETS = [
     photos: 27,
     videos: 5,
     description: "13ちゃんの公開サンプルです。",
-    cover: "001.jpg"
+    cover: "019.jpg"
   },
 
   {
-    name: "サンプルセットB",
-    folder: "set_b",
-    prefix: "サンプルB",
-    photos: 10,
-    videos: 2,
-    description: "追加するセットのサンプルです。",
-    cover: "001.jpg"
+    name: "Aoiちゃん",
+    folder: "Aoiちゃん",
+    prefix: "Aoiちゃん",
+    photos: 49,
+    videos: 43,
+    description: "Aoiちゃんの公開サンプルです。",
+    cover: "034.jpg"
   }
 
   /*
