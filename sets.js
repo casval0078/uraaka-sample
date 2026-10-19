@@ -57,6 +57,71 @@ const SETS = [
     description: "Aoiちゃんの公開サンプルです。",
     cover: "034.jpg"
   }
+  {
+    name: "ありさちゃん",
+    folder: "ありさちゃん",
+    prefix: "ありさちゃん",
+    photos: 215,
+    videos: 59,
+    description: "新しいセットのサンプルです。",
+    cover: "032.jpg"
+  }
+  {
+    name: "ｲｴちゃん",
+    folder: "ｲｴちゃん",
+    prefix: "ありさちゃん",
+    photos: 62,
+    videos: 22,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+  }
+  {
+    name: "いちかちゃん",
+    folder: "いちかちゃん",
+    prefix: "いちかちゃん",
+    photos: 26,
+    videos: 11,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+  }
+  {
+    name: "うさぎちゃん",
+    folder: "うさぎちゃん",
+    prefix: "うさぎちゃん",
+    photos: 47,
+    videos: 15,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+  }
+  {
+    name: "えすちゃん",
+    folder: "えすちゃん",
+    prefix: "えすちゃん",
+    photos: 91,
+    videos: 14,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+  }
+  {
+    name: "えむちゃん",
+    folder: "えむちゃん",
+    prefix: "えむちゃん",
+    photos: 194,
+    videos: 105,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+  }
+  {
+    name: "おいもちゃん",
+    folder: "おいもちゃん",
+    prefix: "おいもちゃん",
+    photos: 152,
+    videos: 32,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+  }
+
+
 
   /*
   ↓↓↓ここをコピーして新しいセットを追加↓↓↓
