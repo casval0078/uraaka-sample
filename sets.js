@@ -56,7 +56,7 @@ const SETS = [
     videos: 43,
     description: "Aoiちゃんの公開サンプルです。",
     cover: "034.jpg"
-  }
+  },
   {
     name: "ありさちゃん",
     folder: "ありさちゃん",
@@ -65,7 +65,7 @@ const SETS = [
     videos: 59,
     description: "新しいセットのサンプルです。",
     cover: "032.jpg"
-  }
+  },
   {
     name: "ｲｴちゃん",
     folder: "ｲｴちゃん",
@@ -74,7 +74,7 @@ const SETS = [
     videos: 22,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
-  }
+  },
   {
     name: "いちかちゃん",
     folder: "いちかちゃん",
@@ -83,7 +83,7 @@ const SETS = [
     videos: 11,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
-  }
+  },
   {
     name: "うさぎちゃん",
     folder: "うさぎちゃん",
@@ -92,7 +92,7 @@ const SETS = [
     videos: 15,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
-  }
+  },
   {
     name: "えすちゃん",
     folder: "えすちゃん",
@@ -101,7 +101,7 @@ const SETS = [
     videos: 14,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
-  }
+  },
   {
     name: "えむちゃん",
     folder: "えむちゃん",
@@ -110,7 +110,7 @@ const SETS = [
     videos: 105,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
-  }
+  },
   {
     name: "おいもちゃん",
     folder: "おいもちゃん",
