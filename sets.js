@@ -18,8 +18,10 @@ name / folder / prefix / photos / videos を変更してください。
   name: "新しい作品",
   folder: "new_set",
   prefix: "新しい作品",
-  photos: 20,
-  videos: 5,
+　photos: 215,       // 販売データ全体の写真総数
+　videos: 59,        // 販売データ全体の動画総数
+　samplePhotos: 5,   // 公開するサンプル写真の枚数
+　sampleVideos: 5,   // 公開するサンプル動画の本数
   description: "新しい作品の公開サンプルです。",
   cover: "001.jpg"
 },
@@ -44,8 +46,10 @@ const SETS = [
     prefix: "13ちゃん",
     photos: 27,
     videos: 5,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "13ちゃんの公開サンプルです。",
-    cover: "019.jpg"
+    cover: "001.jpg"
   },
 
   {
@@ -54,8 +58,10 @@ const SETS = [
     prefix: "Aoiちゃん",
     photos: 49,
     videos: 43,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "Aoiちゃんの公開サンプルです。",
-    cover: "034.jpg"
+    cover: "001.jpg"
   },
   {
     name: "ありさちゃん",
@@ -63,6 +69,8 @@ const SETS = [
     prefix: "ありさちゃん",
     photos: 215,
     videos: 59,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "032.jpg"
   },
@@ -72,6 +80,8 @@ const SETS = [
     prefix: "ありさちゃん",
     photos: 62,
     videos: 22,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
   },
@@ -81,6 +91,8 @@ const SETS = [
     prefix: "いちかちゃん",
     photos: 26,
     videos: 11,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
   },
@@ -90,6 +102,8 @@ const SETS = [
     prefix: "うさぎちゃん",
     photos: 47,
     videos: 15,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
   },
@@ -99,6 +113,8 @@ const SETS = [
     prefix: "えすちゃん",
     photos: 91,
     videos: 14,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
   },
@@ -108,6 +124,8 @@ const SETS = [
     prefix: "えむちゃん",
     photos: 194,
     videos: 105,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
   },
@@ -117,6 +135,8 @@ const SETS = [
     prefix: "おいもちゃん",
     photos: 152,
     videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "001.jpg"
   }
