@@ -102,12 +102,14 @@ if (!set) {
   const photoSection = document.createElement("section");
   photoSection.innerHTML =
     '<div class="container"><div class="heading"><h2>PHOTO</h2><p>' +
-    set.photos + ' samples</p></div><div class="grid" id="photos"></div></div>';
+    samplePhotoCount + ' samples</p></div><div class="grid" id="photos"></div></div>';
   app.appendChild(photoSection);
 
   const photoGrid = photoSection.querySelector("#photos");
 
-  for (let i = 1; i <= set.photos; i++) {
+　const samplePhotoCount = Math.min(set.samplePhotos ?? 5, 5);
+
+  for (let i = 1; i <= samplePhotoCount; i++) {
     const number = String(i).padStart(3, "0");
     const file = set.prefix + "_" + number + ".jpg";
 
@@ -127,14 +129,16 @@ if (!set) {
   videoSection.innerHTML =
     '<div class="container"><div class="heading"><h2>VIDEO</h2><p>' +
     set.videos +
-    ' samples / max 30 sec</p></div><div class="grid" id="videos"></div>' +
+    ' sampleVideoCount / max 30 sec</p></div><div class="grid" id="videos"></div>' +
     '<div class="notice">このページに掲載しているのは、公開用にモザイク・SAMPLE加工したサンプルのみです。購入用の元データ・高解像度データはこのサイトには掲載していません。</div></div>';
 
   app.appendChild(videoSection);
 
   const videoGrid = videoSection.querySelector("#videos");
 
-  for (let i = 1; i <= set.videos; i++) {
+　const sampleVideoCount = Math.min(set.sampleVideos ?? 5, 5);
+
+　for (let i = 1; i <= sampleVideoCount; i++) {
     const number = String(i).padStart(3, "0");
     const file = set.prefix + "_" + number + ".mp4";
 
