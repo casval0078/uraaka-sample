@@ -100,14 +100,17 @@ if (!set) {
   app.appendChild(hero);
 
   const photoSection = document.createElement("section");
+
+  const samplePhotoCount = Math.min(set.samplePhotos ?? 5, 5);
+
   photoSection.innerHTML =
     '<div class="container"><div class="heading"><h2>PHOTO</h2><p>' +
-    samplePhotoCount + ' samples</p></div><div class="grid" id="photos"></div></div>';
+    samplePhotoCount +
+    ' samples</p></div><div class="grid" id="photos"></div></div>';
+
   app.appendChild(photoSection);
 
   const photoGrid = photoSection.querySelector("#photos");
-
-　const samplePhotoCount = Math.min(set.samplePhotos ?? 5, 5);
 
   for (let i = 1; i <= samplePhotoCount; i++) {
     const number = String(i).padStart(3, "0");
@@ -126,6 +129,9 @@ if (!set) {
   }
 
   const videoSection = document.createElement("section");
+
+  const sampleVideoCount = Math.min(set.sampleVideos ?? 5, 5);
+  
   videoSection.innerHTML =
     '<div class="container"><div class="heading"><h2>VIDEO</h2><p>' +
     set.videos +
@@ -136,7 +142,7 @@ if (!set) {
 
   const videoGrid = videoSection.querySelector("#videos");
 
-　const sampleVideoCount = Math.min(set.sampleVideos ?? 5, 5);
+
 
 　for (let i = 1; i <= sampleVideoCount; i++) {
     const number = String(i).padStart(3, "0");
