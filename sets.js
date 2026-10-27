@@ -227,6 +227,17 @@ const SETS = [
 　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "005.jpg"
+                  },
+  {
+    name: "たかすちゃん",
+    folder: "たかすちゃん",
+    prefix: "たかすちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "003.jpg"
       },
   {
     name: "なぎぃちゃん",
@@ -282,6 +293,17 @@ const SETS = [
 　　sampleVideos: 5,
     description: "新しいセットのサンプルです。",
     cover: "004.jpg"
+                  },
+  {
+    name: "ねこちゃん",
+    folder: "ねこちゃん",
+    prefix: "ねこちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
       },
   {
     name: "のぅちゃん",
@@ -353,6 +375,116 @@ const SETS = [
     name: "ぽんちゃん",
     folder: "ぽんちゃん",
     prefix: "ぽんちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "005.jpg"
+          },
+  {
+    name: "まんぼうちゃん",
+    folder: "まんぼうちゃん",
+    prefix: "まんぼうちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "003.jpg"
+          },
+  {
+    name: "みうちゃん",
+    folder: "みうちゃん",
+    prefix: "みうちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "004.jpg"
+              },
+  {
+    name: "みくちゃん",
+    folder: "みくちゃん",
+    prefix: "みくちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "004.jpg"
+              },
+  {
+    name: "みこちゃん",
+    folder: "みこちゃん",
+    prefix: "みこちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "003.jpg"
+                  },
+  {
+    name: "みゆちゃん",
+    folder: "みゆちゃん",
+    prefix: "みゆちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "002.jpg"
+                  },
+  {
+    name: "めすちゃん",
+    folder: "めすちゃん",
+    prefix: "めすちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "004.jpg"
+                  },
+  {
+    name: "ゆるみちゃん",
+    folder: "ゆるみちゃん",
+    prefix: "ゆるみちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 0,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+                  },
+  {
+    name: "りんちゃん",
+    folder: "りんちゃん",
+    prefix: "りんちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+                  },
+  {
+    name: "れいちゃん",
+    folder: "れいちゃん",
+    prefix: "れいちゃん",
+    photos: 152,
+    videos: 32,
+　　samplePhotos: 5,
+　　sampleVideos: 5,
+    description: "新しいセットのサンプルです。",
+    cover: "001.jpg"
+                  },
+  {
+    name: "わんわんちゃん",
+    folder: "わんわんちゃん",
+    prefix: "わんわんちゃん",
     photos: 152,
     videos: 32,
 　　samplePhotos: 5,
