@@ -48,7 +48,7 @@ const SETS = [
     videos: 5,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "13ちゃんの公開サンプルです。",
+    description: "13ちゃんの公開サンプルです。全34データ　20.2MB　￥500です。",
     cover: "005.jpg"
   },
 
@@ -60,7 +60,7 @@ const SETS = [
     videos: 49,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "Aoiちゃんの公開サンプルです。",
+    description: "Aoiちゃんの公開サンプルです。全100データ　247MB　￥1,500です。",
     cover: "004.jpg"
   },
   {
@@ -71,7 +71,7 @@ const SETS = [
     videos: 73,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ありさちゃんの公開サンプルです。全300データ　475MB　￥2,500です。",
     cover: "004.jpg"
   },
   {
@@ -82,7 +82,7 @@ const SETS = [
     videos: 22,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ｲｴちゃんのサンプルです。全84データ　52.3MB　￥500です。",
     cover: "001.jpg"
   },
   {
@@ -93,7 +93,7 @@ const SETS = [
     videos: 10,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "いちかちゃんの公開サンプルです。全34データ　65.1MB　￥2,000です。",
     cover: "002.jpg"
   },
   {
@@ -104,7 +104,7 @@ const SETS = [
     videos: 15,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "うさぎちゃんの公開サンプルです。全62データ　55.0MB　￥500です。",
     cover: "004.jpg"
   },
   {
@@ -115,7 +115,7 @@ const SETS = [
     videos: 14,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "えすちゃんの公開サンプルです。全104データ　118MB　￥2,000です。",
     cover: "005.jpg"
   },
   {
@@ -126,7 +126,7 @@ const SETS = [
     videos: 107,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "えむちゃんの公開サンプルです。全282データ　4.0GB　￥8,000です。",
     cover: "003.jpg"
   },
   {
@@ -137,7 +137,7 @@ const SETS = [
     videos: 33,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "おいもちゃんの公開サンプルです。全177データ　249MB　￥2,000です。",
     cover: "004.jpg"
       },
   {
@@ -148,7 +148,7 @@ const SETS = [
     videos: 9,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "かなこちゃんの公開サンプルです。全49データ　78.4MB　￥3,000です。",
     cover: "003.jpg"
       },
   {
@@ -159,7 +159,7 @@ const SETS = [
     videos: 6,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "カナちゃんの公開サンプルです。全45データ　22.6MB　￥500です。",
     cover: "003.jpg"
       },
   {
@@ -170,7 +170,7 @@ const SETS = [
     videos: 9,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "かなちゃんの公開サンプルです。全117データ　83.1MB　￥500です。",
     cover: "001.jpg"
       },
   {
@@ -181,7 +181,7 @@ const SETS = [
     videos: 9,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "かぬれちゃんの公開サンプルです。全45データ　66.6MB　￥2,000です。",
     cover: "001.jpg"
       },
   {
@@ -192,7 +192,7 @@ const SETS = [
     videos: 2,
 　　samplePhotos: 5,
 　　sampleVideos: 2,
-    description: "新しいセットのサンプルです。",
+    description: "かりかりうめちゃんの公開サンプルです。全39データ　13.2MB　￥300です。",
     cover: "002.jpg"
       },
   {
@@ -203,7 +203,7 @@ const SETS = [
     videos: 169,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "こめっこちゃんの公開サンプルです。全279データ　362MB　￥1,000です。",
     cover: "001.jpg"
       },
   {
@@ -214,7 +214,7 @@ const SETS = [
     videos: 53,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "さなちゃんの公開サンプルです。全83データ　1.66GB　￥5,000です。",
     cover: "002.jpg"
       },
   {
@@ -225,7 +225,7 @@ const SETS = [
     videos: 18,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "しまーちゃんの公開サンプルです。全40データ　105MB　￥1,500です。",
     cover: "005.jpg"
                   },
   {
@@ -236,7 +236,7 @@ const SETS = [
     videos: 52,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "たかすちゃんの公開サンプルです。全59データ　133MB　￥3,000です。",
     cover: "003.jpg"
       },
   {
@@ -247,7 +247,7 @@ const SETS = [
     videos: 2,
 　　samplePhotos: 5,
 　　sampleVideos: 2,
-    description: "新しいセットのサンプルです。",
+    description: "なぎぃちゃんの公開サンプルです。全27データ　450MB　￥2,500です。",
     cover: "004.jpg"
       },
   {
@@ -258,7 +258,7 @@ const SETS = [
     videos: 3,
 　　samplePhotos: 5,
 　　sampleVideos: 3,
-    description: "新しいセットのサンプルです。",
+    description: "ナナセちゃんの公開サンプルです。全67データ　14.6MB　￥300です。",
     cover: "004.jpg"
       },
   {
@@ -269,7 +269,7 @@ const SETS = [
     videos: 7,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ななせちゃんの公開サンプルです。全12データ　29.3MB　￥1,000です。",
     cover: "005.jpg"
       },
   {
@@ -280,7 +280,7 @@ const SETS = [
     videos: 26,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "にゃんちゃんの公開サンプルです。全50データ　83.1MB　￥500です。",
     cover: "003.jpg"
       },
   {
@@ -291,7 +291,7 @@ const SETS = [
     videos: 14,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "にゅーちゃんの公開サンプルです。全43データ　85.9MB　￥800です。",
     cover: "004.jpg"
                   },
   {
@@ -302,7 +302,7 @@ const SETS = [
     videos: 12,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ねこちゃんの公開サンプルです。全41データ　168MB　￥500です。",
     cover: "001.jpg"
       },
   {
@@ -313,7 +313,7 @@ const SETS = [
     videos: 16,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "のぅちゃんの公開サンプルです。全157データ　533MB　￥3,000です。",
     cover: "005.jpg"
       },
   {
@@ -324,7 +324,7 @@ const SETS = [
     videos: 2,
 　　samplePhotos: 5,
 　　sampleVideos: 2,
-    description: "新しいセットのサンプルです。",
+    description: "のりまきちゃんの公開サンプルです。全47データ　3.83MB　￥100です。",
     cover: "001.jpg"
       },
   {
@@ -335,7 +335,7 @@ const SETS = [
     videos: 9,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "はーとちゃんの公開サンプルです。全32データ　15.6MB　￥1,000です。",
     cover: "005.jpg"
       },
   {
@@ -346,7 +346,7 @@ const SETS = [
     videos: 63,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ハナちゃんの公開サンプルです。全191データ　173MB　￥1,500です。",
     cover: "005.jpg"
       },
   {
@@ -357,7 +357,7 @@ const SETS = [
     videos: 115,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "はなちゃんの公開サンプルです。全739データ　1.32GB　￥3,500です。",
     cover: "001.jpg"
           },
   {
@@ -368,7 +368,7 @@ const SETS = [
     videos: 50,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "準備中です。",
     cover: "001.jpg"
       },
   {
@@ -379,7 +379,7 @@ const SETS = [
     videos: 101,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ヒスイちゃんの公開サンプルです。全170データ　477MB　￥2,000です。",
     cover: "001.jpg"
       },
   {
@@ -390,7 +390,7 @@ const SETS = [
     videos: 130,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "ぽんちゃんの公開サンプルです。全160データ　3.67GB　￥1,500です。",
     cover: "005.jpg"
           },
   {
@@ -401,7 +401,7 @@ const SETS = [
     videos: 40,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "まんぼうちゃんの公開サンプルです。全68データ　167MB　￥500です。",
     cover: "003.jpg"
           },
   {
@@ -412,7 +412,7 @@ const SETS = [
     videos: 15,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "みうちゃんの公開サンプルです。全118データ　110MB　￥2,000です。",
     cover: "004.jpg"
               },
   {
@@ -423,7 +423,7 @@ const SETS = [
     videos: 51,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "みくちゃんの公開サンプルです。全156データ　2.14GB　￥5,000です。",
     cover: "004.jpg"
               },
   {
@@ -434,7 +434,7 @@ const SETS = [
     videos: 140,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "みこちゃんの公開サンプルです。全343データ　899MB　￥3,000です。",
     cover: "003.jpg"
                   },
   {
@@ -445,7 +445,7 @@ const SETS = [
     videos: 1,
 　　samplePhotos: 5,
 　　sampleVideos: 1,
-    description: "新しいセットのサンプルです。",
+    description: "みゆちゃんの公開サンプルです。全36データ　20.8MB　￥100です。",
     cover: "002.jpg"
                   },
   {
@@ -456,7 +456,7 @@ const SETS = [
     videos: 3,
 　　samplePhotos: 5,
 　　sampleVideos: 3,
-    description: "新しいセットのサンプルです。",
+    description: "めすちゃんの公開サンプルです。全41データ　13.7MB　￥300です。",
     cover: "004.jpg"
                   },
   {
@@ -467,7 +467,7 @@ const SETS = [
     videos: 0,
 　　samplePhotos: 5,
 　　sampleVideos: 0,
-    description: "新しいセットのサンプルです。",
+    description: "ゆるみちゃんの公開サンプルです。全40データ　5.03MB　￥300です。",
     cover: "001.jpg"
                   },
   {
@@ -478,7 +478,7 @@ const SETS = [
     videos: 63,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "りんちゃんの公開サンプルです。全164データ　115MB　￥1,000です。",
     cover: "001.jpg"
                   },
   {
@@ -489,7 +489,7 @@ const SETS = [
     videos: 0,
 　　samplePhotos: 5,
 　　sampleVideos: 0,
-    description: "新しいセットのサンプルです。",
+    description: "れいちゃんの公開サンプルです。全88データ　30.3MB　￥500です。",
     cover: "001.jpg"
                   },
   {
@@ -500,7 +500,7 @@ const SETS = [
     videos: 8,
 　　samplePhotos: 5,
 　　sampleVideos: 5,
-    description: "新しいセットのサンプルです。",
+    description: "わんわんちゃんの公開サンプルです。全25データ　21.4MB　￥300です。",
     cover: "005.jpg"
   }
 
